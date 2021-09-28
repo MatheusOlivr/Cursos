@@ -10,7 +10,7 @@
 }
 body 
 {
-	background-color:#F5F5F5;
+	background-color:#F4F4F4;
 }
 a 
 {
@@ -143,3 +143,40 @@ img
 	border-radius: 10px;
 	background-color:rgba(0,0,0,0.4);
 }
+.servicos 
+{
+	margin-top:2%;
+	width:100%;
+	float:left;
+	
+}
+.servico
+{
+	padding:4%;
+	margin-bottom: 3%;
+	background-color: white;
+}
+.servico img 
+{
+	border-radius:10px;
+}
+.servico .inner
+{
+	padding:7%;
+	text-align:justify;
+}
+.servico .inner a 
+{
+	font-size:1.5em;
+	font-weight: 700;
+	color:black;
+	margin-bottom: 5%;
+}
+.servicos .inner h4
+{
+	font-weight: 600;
+}
+.servicos .inner p
+{
+	margin-top:5%;
+} 
