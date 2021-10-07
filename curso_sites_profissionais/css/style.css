@@ -124,11 +124,15 @@ img
 	float:right;
 	width:100%;
 }
+.button
+{
+	width
+}
 .banner .btn-cadastrar
 {
-	width:45%;
+	width:80%;
 	font-size:2em;
-	padding:5%;
+	padding:2%;
 	text-align:center;
 	cursor:pointer;
 	border-radius: 10px;
@@ -137,11 +141,11 @@ img
 }
 .banner .btn-sobre
 {
-	width:45%;
+	width:80%;
 	color:rgba(255,255,255,0.8);
 	margin-top:2%;
 	font-size:2em;
-	padding:5%;
+	padding:2%;
 	text-align:center;
 	border:solid white 2px;
 	cursor:pointer;
@@ -286,12 +290,12 @@ img
 	}
 	.banner .btn-cadastrar
 	{
-		width:40%;
+		width:45%;
 		margin-left:5px;
 	}
 	.banner .btn-sobre
 	{
-		width: 40%;
+		width: 45%;
 		border:solid white 2px;
 		margin-left:5px;
 	}
@@ -314,7 +318,7 @@ img
 	}
 }
 
-@media screen and (min-width:800px)
+@media screen and (min-width:900px)
 {
 	.logo
 	{
@@ -347,7 +351,7 @@ img
 	}
 	.servico
 	{
-		width:30.97%;
+		width:30.8%;
 		float:left;
 		margin-left:4px;
 	}
